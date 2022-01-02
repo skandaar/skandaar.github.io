@@ -21,9 +21,9 @@
 title: "Books World"
 email: yass.tyme@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Welcome to my personal blog designed for my reading list, 
+  here you find my own reviews of all my reading list books.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 repository: brennanbrown/purelog
 twitter: brennankbrown
