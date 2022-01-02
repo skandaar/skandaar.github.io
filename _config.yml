@@ -23,7 +23,7 @@ email: yass.tyme@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal blog designed for my reading list, 
   here you find my own reviews of all my reading list books.
-baseurl: "https://skandaar.github.io/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://skandaar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: skandaar/skandaar.github.io
 twitter: yasushime
