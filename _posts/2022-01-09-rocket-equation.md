@@ -23,6 +23,6 @@ if we want to reach high orbits, like Elon Musk Super Heavy or the last Ariane
 that carried James Webb Telescope.
 
 All began with this short formula: 	$\overrightarrow{F}=m.\overrightarrow{a}$
-
 ... 
+
 ---
