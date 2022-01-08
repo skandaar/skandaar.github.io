@@ -16,7 +16,7 @@ We'll try to answer these questions :
 
 How rockets fly in the sky ? Why they are so big and heavy ?
 
-<img data-width="5532" data-height="3688" src=assets/rocket.jpg" /> 
+<img data-width="5532" data-height="3688" src=/assets/rocket.jpg" /> 
 
 After reading this you'll understand why we should build gigantic rockets 
 if we want to reach high orbits, like Elon Musk Super Heavy or the last Ariane
