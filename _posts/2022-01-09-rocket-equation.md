@@ -4,10 +4,11 @@ title: "Rocket Equation"
 date: 2022-01-09
 tags:
   - Physics
-  - Teaching
+  - Space
+  - Pedagogy
 author: Yassine Temtam
 avatar: assets/img/common/yassine-avatar.png
-category: Teaching Physics
+category: Cool Physics
 ---
 
 A demo post
