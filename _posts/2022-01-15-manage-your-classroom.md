@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective Classroom Management - The Essentials"
+title: "Effective Classroom Management - The Essentials By Tracey Garrett"
 date: 2022-01-15
 tags:
   - Teaching
