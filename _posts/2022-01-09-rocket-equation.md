@@ -11,6 +11,13 @@ avatar: assets/img/common/yassine-avatar.png
 category: Cool Physics
 ---
 
-A demo post
+This is a post for pupils in school and the ordinary man, no advanced maths needed.
+We'll try to answer these questions :
+
+How rockets fly in the sky ? Why they are so big and heavy ?
+
+After reading this you'll understand why we should build gigantic rockets 
+if we want to reach high orbits, like Elon Musk Super Heavy or the last Ariane
+that carried James Webb Telescope...
 
 ---
