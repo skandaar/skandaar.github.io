@@ -18,7 +18,7 @@ How rockets fly in the sky ? Why they are so big and heavy ?
 
 <img src=https://images.pexels.com/photos/60126/pexels-photo-60126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" /> 
 
-<iframe type="text/html" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00O129P1S&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_05XBKQY27807NF01P63N" ></iframe>
+<iframe type="text/html" frameborder="0" allowfullscreen style="max-width:100%" src="https://images.pexels.com/photos/60126/pexels-photo-60126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" ></iframe>
                                                                                                                  
 
 After reading this you'll understand why we should build gigantic rockets 
