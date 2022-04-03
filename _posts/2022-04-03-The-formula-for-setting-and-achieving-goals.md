@@ -19,7 +19,7 @@ Before you come up with a list of goals you want to achieve, make sure your goal
 * Reallistic<br>
 * Time Based<br>
 
-<img data-width="5532" data-height="3688" src="https://cdn-images-1.medium.com/max/2560/1*RijfP3sZSfQXb8V_43OzUA.jpeg" /> <figcaption class="wp-caption-text"><b>My Personal Goals List</b>
+<img data-width="5532" data-height="3688" src="https://miro.medium.com/max/700/1*_EyAtFFmplu6FIQB115Yvw.jpeg" /> <figcaption class="wp-caption-text"><b>My Personal Goals List</b>
 
 ## The formula for setting and achieving goals:
 1. Decide exactly what you want
