@@ -4,10 +4,9 @@ date: 2022-04-03
 author: Yassine .T
 layout: post
 tags:
-  - Purpose
   - Goals
   - Procrastination
-  - Productivity
+  - Planning
 category: Essays
 ---
 
