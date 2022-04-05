@@ -1,15 +1,15 @@
 ---
-title: The Formula for Setting and Achieving Goals
-date: 2022-04-03
-author: Yassine .T
 layout: post
+title: "The Formula for Setting and Achieving Goals"
+date: 2022-04-03
 tags:
   - Goals
   - Procrastination
   - Planning
+author: Yassine Temtam
+avatar: assets/img/common/yassine-avatar.png
 category: Essays
 ---
-
 
 Before you come up with a list of goals you want to achieve, make sure your goals meet the following criteria:<br>
 * Specific<br>
