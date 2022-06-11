@@ -9,7 +9,7 @@ tags:
 category: Career
 ---
 
-### Diplomes
+## DIPLOMES
 ## Master Chimie des actinides, materiaux nucleaires - **Universite de Montpellier II - Monpellier(France)** - 2012
 ## Maitrise Elaboration et transformation des polymeres - **Faculte des sciences et techniques Gueliz - Marrakech(Maroc)** - 2009
 ## Certificats d'accomplissement de cours en ligne en programmation et informatiques : HTML/CSS; JavaScript; Ruby
