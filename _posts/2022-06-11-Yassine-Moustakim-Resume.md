@@ -16,10 +16,12 @@ category: Career
 ## Certificats d'accomplissement de cours en ligne en programmation et informatiques : HTML/CSS; JavaScript; Ruby
 ------------------------------------------------------------------------------------------------------------------------------------
 ## EXPERIENCE PROFESSIONNELLE
+------------------------------------------------------------------------------------------------------------------------------------
 ## Enseignant libre depuis plus de 10 ans (France - Maroc)
 ## Agent de Maitrise au Labo SUBATECH - Ecole des mines - Nantes (France) - 2012
 ------------------------------------------------------------------------------------------------------------------------------------
 ## Centres d'interets
+------------------------------------------------------------------------------------------------------------------------------------
 ## Programmation https://skandaar.github.io
 ## Passionne de livres, fan de Elon Musk
 ## Faire du sport : courir et fitness
