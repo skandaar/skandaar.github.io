@@ -63,7 +63,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Yassine Temtam
+      author: Yassine Moustakim
       avatar: assets/profile-sm.png
   - scope:
       path: ""
