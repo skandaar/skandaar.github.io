@@ -4,8 +4,7 @@ date: 2020-10-28
 author: Brennan K. Brown
 layout: post
 tags:
-  - Planning
-  - Productivity
+  - Action
   - Writing
 author: Yui Doe
 avatar: assets/img/common/yui-avatar.png
@@ -26,7 +25,7 @@ Not only that, but I joined the <a href="https://medium.com/creators" target="_b
 
 <figure class="wp-caption">
 
-<img data-width="3000" data-height="2400" src="https://cdn-images-1.medium.com/max/2560/1*UKfnx1Hgk5RH8DdJoizv7A.jpeg" /> <figcaption class="wp-caption-text"><b>Interior View of Drafting Room in ERB</b> | <a href="https://commons.wikimedia.org/wiki/File:Interior_View_of_Drafting_Room_in_ERB_-_GPN-2000-001447.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
+<img data-width="3000" data-height="2400" src="https://cdn-images-1.medium.com/max/2560/1*UKfnx1Hgk5RH8DdJoizv7A.jpeg" /> <figcaption class="wp-caption-text"><b>Interior View of Drafting Room in ERB</b> | <a href="https://commons.wikimedia.org/wiki/File:Interior_View_of_Drafting_Room_in_ERB_-_GPN-2000-001447.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <figure>
 
@@ -55,7 +54,7 @@ That’s why I realize I need to try harder. I need to take larger risks and all
 <img data-width="1400" data-height="62" src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" />  
 </figure>
 
-### <b>Creating a Focal Point</b>
+### <b>Creating a Focal Point</b>
 
 Back to the question I had on-hand: <b>Why do people fail to keep promises they make to themselves?</b> Sure, I made a compelling argument to the importance of failing at times, but success _is_ endgame. Human psychology is a murky field still in its infancy, and there are a multitude of reasons why people say one thing then do another. We all have obligations and responsibilities — things that take our time and effort away from what we set out to do idealistically. As a self-improvement junkie, I’ve come across a lot of different answers to this question, and subsequent solutions. In this article, I’d like to contribute my own solution — write yourself a contingency plan.
 
@@ -66,14 +65,14 @@ What is a contingency plan? It’s defined as: _A plan designed to take a possib
 <img data-width="2400" data-height="1514" src="https://cdn-images-1.medium.com/max/600/1*GO5EtoAdbj4MMIoP7D76Lw.png" />  
 </figure>
 
-After reading a lot of literature on the subject, I’ve boiled down what would make a good personal contingency plan into a single sentence: <b>Create a focal point for yourself.</b> What does that mean? It means:   
-<b>1)</b> Figure out your values.   
-<b>2)** Make them your first priority. **3)</b> Cut the rest of the bullshit out of your life.   
+After reading a lot of literature on the subject, I’ve boiled down what would make a good personal contingency plan into a single sentence: <b>Create a focal point for yourself.</b> What does that mean? It means:   
+<b>1)</b> Figure out your values.   
+<b>2)** Make them your first priority. **3)</b> Cut the rest of the bullshit out of your life.   
 The human mind is an amazingly capable machine, but with so much stimuli, it is spread far too thin. If you were to write out a list of each unique thing you did today — let alone today–you would have dozens of different tasks that require both willpower and brain-power.
 
 We all have more choices and information in front of us than ever before in human history. It’s far too easy to use the technology and potential knowledge available to us in an unhealthy and unproductive way. There’s an emerging trend of _digital detox_, the act of cutting out social media and the internet as a whole from your life. I believe there is merit to this. We all could value from taking some time to sincerely just _sit and think._ To hear your own voice instead of being bombarded with the thousands of the online.
 
-#### Finding Your Values
+#### Finding Your Values
 
 From our own voice, we can hear our own values. What we truly deem as important — not to others — but to just ourselves. How do you do this in practice? Here’s what I suggest:
 
@@ -124,8 +123,8 @@ As per usual, I enjoy displaying how I personally use the information that I fin
 
 <figure class="wp-caption">
 
-<img data-width="2400" data-height="1800" src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" /><figcaption class="wp-caption-text"><b>Thanks for Reading!</b></figcaption></figure>
+<img data-width="2400" data-height="1800" src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" /><figcaption class="wp-caption-text"><b>Thanks for Reading!</b></figcaption></figure>
 
 <figure class="wp-caption">
 
-<a href="https://writingcooperative.com/" target="_blank" rel="noopener noreferrer"><img data-width="1099" data-height="139" src="https://cdn-images-1.medium.com/max/800/1*eLY7z6NuxjwFyI1T-dwXcQ.png" /></a><figcaption class="wp-caption-text">Helping each other write better.</figcaption></figure>
+<a href="https://writingcooperative.com/" target="_blank" rel="noopener noreferrer"><img data-width="1099" data-height="139" src="https://cdn-images-1.medium.com/max/800/1*eLY7z6NuxjwFyI1T-dwXcQ.png" /></a><figcaption class="wp-caption-text">Helping each other write better.</figcaption></figure>

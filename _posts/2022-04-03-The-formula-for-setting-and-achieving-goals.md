@@ -5,7 +5,6 @@ date: 2022-04-03
 tags:
   - Goals
   - Procrastination
-  - Planning
 author: Yassine Moustakim
 avatar: assets/img/common/yassine-avatar.png
 category: Essays

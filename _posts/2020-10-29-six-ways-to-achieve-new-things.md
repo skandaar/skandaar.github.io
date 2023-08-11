@@ -5,8 +5,7 @@ author: Brennan K. Brown
 layout: post
 tags:
   - Goals
-  - Habits
-  - Inspiration
+  - Action
 author: Tilo Smith
 avatar: assets/img/common/tilo-avatar.png
 ---

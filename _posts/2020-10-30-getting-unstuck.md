@@ -6,8 +6,7 @@ author: Brennan K. Brown
 layout: post
 tags:
   - Creativity
-  - Inspiration
-  - Habits
+  - Action
 author: Reid Doe
 avatar: assets/img/common/reid-avatar.png
 category: How-To

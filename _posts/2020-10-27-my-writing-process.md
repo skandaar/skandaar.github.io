@@ -4,8 +4,7 @@ date: 2020-10-27
 author: Brennan K. Brown
 layout: post
 tags:
-  - Productivity
-  - Planning
+  - Action
   - Writing
 category: Guides
 ---
@@ -24,11 +23,11 @@ There are many steps to this process — from brainstorms to an outline, fro
 
 <figure class="wp-caption">
 
-<img data-width="3000" data-height="2250" src="https://cdn-images-1.medium.com/max/2560/1*xdeHxfY_NPhNrbAi6OunKw.jpeg" /> <figcaption class="wp-caption-text"><b>Antique Blank</b> | <a href="https://www.pexels.com/photo/antique-blank-camera-classic-269810/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
+<img data-width="3000" data-height="2250" src="https://cdn-images-1.medium.com/max/2560/1*xdeHxfY_NPhNrbAi6OunKw.jpeg" /> <figcaption class="wp-caption-text"><b>Antique Blank</b> | <a href="https://www.pexels.com/photo/antique-blank-camera-classic-269810/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
-## An Aside: GOOD WRITING?
+## An Aside: GOOD WRITING?
 
-> “All good writing is swimming under water and holding your breath.”   
+> “All good writing is swimming under water and holding your breath.”   
 > — F. Scott Fitzgerald
 
 Writing is a mysterious and elusive artform. Whether it’s technical, creative, or copy — good writing contains something that cannot be taught. A balance needs to be struck between the formless idea and the formulaic structure.
@@ -37,8 +36,8 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 ### 1. PREPARATION: Focus
 
-> “A winning effort begins with preparation.”   
-> — Joe Gibbs
+> “A winning effort begins with preparation.”   
+> — Joe Gibbs
 
 <span>D</span>istraction is the worst offender for writing that’s never completed — and often times writing that isn’t even started. Identify and eliminate potential distractions before you begin. Ensure you don’t allow yourself to procrastinate by dealing with them when they arrive.
 
@@ -50,10 +49,10 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Unplug and disconnect.</b> The research phase of writing is the only time you should be using the Internet. Use an offline word processor, or write by hand. Keep things more traditional — for linguistics, have a dictionary and thesaurus on hand.
 
-### 2. BRAINSTORM: Bad Ideas > No Ideas.
+### 2. BRAINSTORM: Bad Ideas > No Ideas.
 
 > “The way to get good ideas is to get lots of ideas and throw the bad ones away.”  
-> — Linus Pauling
+> — Linus Pauling
 
 <b>Go on an idea sprint.</b> If a good idea is key to good writing, how do you obtain good ideas? Perseverance. Set up a specific time each day and set a timer, force yourself to come up with a dozen unique ideas. Some are going to be bad. Most are going to be bad. But a bad idea is far better than no idea at all. You can still work with a bad idea. You can still write about a bad idea.
 
@@ -61,10 +60,10 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Seek inspiration elsewhere.</b> Look at what other people are blogging about. Don’t be afraid to use their work as inspiration — they’ll take it as a compliment. I came up with the idea of one of my <a href="https://medium.com/@brennanbrown/zen-of-housekeeping-cfd37efb744d" target="_blank" rel="noopener noreferrer">favorite articles</a> from reading someone else’s. Use <a href="https://www.thesitsgirls.com/writing-prompts/" target="_blank" rel="noopener noreferrer">prompts and 30-day challenges</a>. The main point is to just get the ball rolling — a good idea is far more likely to appear if the <a href="https://medium.com/@brennanbrown/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01" target="_blank" rel="noopener noreferrer">canvas isn’t blank</a>.
 
-### 3. OUTLINE: Craft a Thesis
+### 3. OUTLINE: Craft a Thesis
 
-> “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”   
-> ―Abraham Lincoln
+> “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”   
+> ―Abraham Lincoln
 
 <b>Outline first.</b> Once you’re satisfied with the idea you’re going to be working with, it might be tempting to plunge right into writing by the seat of your pants. However, this will only create more work in the future. Having an outline written will save you time.You won’t be constantly second-guessing yourself — and more importantly, losing focus on the topic at-hand.
 
@@ -72,10 +71,10 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Set goals.</b> Take a moment to decide who your ideal audience is. What are they gaining by your writing? The key to goal-setting in writing is relevancy — how will what you create be relevant to others? Take note of what feelings you think your work should invoke.
 
-### 4. DRAFTING & EDITING
+### 4. DRAFTING & EDITING
 
-> “An architect’s most useful tools are an eraser at the drafting board, and a wrecking bar at the site.”   
-> — Frank Lloyd Wright
+> “An architect’s most useful tools are an eraser at the drafting board, and a wrecking bar at the site.”   
+> — Frank Lloyd Wright
 
 <b>Write inside-out.</b> Don’t try to write the introduction first, it’s always the hardest part. Instead, go through your outline and pick the section you’d think would be easiest to write, and keep going from there.
 
@@ -95,10 +94,10 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Review a few more times</b>, just in case. Asking peers for their feedback is always a great idea as well. Then, utilize grammar tools. I personally enjoy using the <a href="https://www.hemingwayapp.com/" target="_blank" rel="noopener noreferrer">Hemingway</a> application, but take its suggestions with a grain of salt. Applications and spell-checkers never catch 100% of errors made, anyways.
 
-### 5. CHOPPING: Be Ruthless
+### 5. CHOPPING: Be Ruthless
 
-> “Less is more.”   
-> — Ludwig Mies van der Rohe
+> “Less is more.”   
+> — Ludwig Mies van der Rohe
 
 <b>The Internet is chock-full of information.</b> It is also already full of people that want their voices to be heard, and their content to be seen. There has never been such a greater amount of salesmen as there are right now in front of your screen. Everybody is trying to sell something — we live in capitalistic society, after all.
 

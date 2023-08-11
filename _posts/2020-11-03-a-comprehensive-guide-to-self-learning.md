@@ -5,9 +5,8 @@ avatar: assets/img/common/reid-avatar.png
 categories:
   - How-To
 tags:
-  - Creativity
-  - Inspiration
-  - Habits
+  - Knowledge
+  - Action
 ---
 
 One of the most effective methods to understanding the materials that you’re studying is to be passionate about them. This is the beauty of MOOCs — the idea that you can pick and choose to learn exactly and only what you want to.
@@ -24,7 +23,7 @@ Ask yourself how much time you’re able to sacrifice and how much effort you’
 
 <figure class="wp-caption">
 
-<img data-width="1280" data-height="983" src="https://cdn-images-1.medium.com/max/2560/1*gWYKhWJzQ_lgsdWR3EV4uQ.jpeg" /> <figcaption class="wp-caption-text">Navajo Students Studying Mathematics at Day School | <a href="https://commons.wikimedia.org/wiki/File:Navajo_students_studying_mathematics_at_day_school_-_NARA_-_295155.jpg" target="_blank" rel="noopener noreferrer"><strong>Source</strong></a></figcaption></figure>
+<img data-width="1280" data-height="983" src="https://cdn-images-1.medium.com/max/2560/1*gWYKhWJzQ_lgsdWR3EV4uQ.jpeg" /> <figcaption class="wp-caption-text">Navajo Students Studying Mathematics at Day School | <a href="https://commons.wikimedia.org/wiki/File:Navajo_students_studying_mathematics_at_day_school_-_NARA_-_295155.jpg" target="_blank" rel="noopener noreferrer"><strong>Source</strong></a></figcaption></figure>
 
 #### How to unlock the full potential of a new era of education.
 
@@ -38,7 +37,7 @@ For the past few years, the world of <a href="https://www.mooc-list.com/" target
 
 Creating lesson plan — let alone a learning path for yourself — is no simple task. And following through with it is another thing entirely. I am no expert myself, so take this rhetoric with a grain of salt. The examples I am going to be showing are only my own, as I’m using myself as a case study.
 
-#### Use It or Lose It
+#### Use It or Lose It
 
 This guide is meant as a way for you to take what you are learning and _apply_ it in a meaningful way. It is not learning for the mere sake of learning — anybody can do that. In fact, that’s what is required of us throughout our schooling years.
 
@@ -46,17 +45,17 @@ The reason we forget what we learn in school is because we don&#8217;t use it in
 
 <figure class="wp-caption">
 
-<img data-width="1070" data-height="570" src="https://cdn-images-1.medium.com/max/800/1*KfQQYIJcIxgSJp8XuL2xPA.png" /> <figcaption class="wp-caption-text">An Old Prototype of My Schedule</figcaption></figure>
+<img data-width="1070" data-height="570" src="https://cdn-images-1.medium.com/max/800/1*KfQQYIJcIxgSJp8XuL2xPA.png" /> <figcaption class="wp-caption-text">An Old Prototype of My Schedule</figcaption></figure>
 
 ### The Elements of a Successful Course
 
 I’m going to break down what I think are the most important aspects when you’re learning something new on your own.
 
-#### 1. The Lesson
+#### 1. The Lesson
 
 The first step is the most important part, obviously. Whether you’re taking an online course, reading a book, or studying another way — you need the content to be able to learn it. However, it’s a mistake to think that this is enough. This is really just the beginning.
 
-#### 2. Note Taking
+#### 2. Note Taking
 
 The second step is to go beyond the course. Note-taking is the most often used method of retention and synthesis of learning. There are many different styles of note-taking — from traditional, to Cornell, to mind-mapping.
 
@@ -66,7 +65,7 @@ There is nothing wrong with a pack-rat mentality of keeping track of everything 
 
 I also suggest that you take notes by hand first — for a few years I tried to take notes on my computer, and found that even though it made organisation and searching a breeze, I felt as though I retained less. Once you have the notes written out, though, I find that _migrating_ them to the computer does help retention and organisation.
 
-#### 3. Flashcards / Quizzes
+#### 3. Flashcards / Quizzes
 
 The third step to better your learning is to then take your notes a step further by converting them into materials that you can test yourself with. This is why it’s so important to make sure you have the most important material kept, so you can easily create Q+A’s for it.
 
@@ -74,7 +73,7 @@ Some courses already have quizzes, which is excellent, but by creating your own,
 
 For flash cards, I recommend the software Anki, and <a href="https://alexvermeer.com/anki-essentials/" target="_blank" rel="noopener noreferrer">this guide</a> for it.
 
-#### 4. Assignments / Projects
+#### 4. Assignments / Projects
 
 The fourth step is what I believe is the most important. Traditionally speaking, assignments are simply another part of the system. They are usually rather dry, and have no inherent value other than for the course itself.
 
@@ -82,7 +81,7 @@ But with MOOCs, you have the ability to push yourself to use the knowledge that 
 
 A good example of this is that I’m in the process of making a blog with <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a>, which has the twofold benefits of learning web development, as well as having a place to document my other learning, which leads into #5.
 
-#### 5. Share Your Work
+#### 5. Share Your Work
 
 Once you have finished a course, you have not only have you improved your own learning by creating all of the above resources, but you now also have the opportunity to share them with others.
 
