@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My mission on Earth
+title: My Mission on Earth
 permalink: /about/
 ---
 
