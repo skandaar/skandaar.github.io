@@ -1,32 +1,32 @@
 ---
 layout: page
-title: About the Purelog Theme
+title: My mission on Earth
 permalink: /about/
 ---
 
-**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
 
-I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
+  My personal mission aligns with some spiritual leaders and brilliant minds like Elon Musk, enhance the human consciousness
+  so that we as human species achieve our potential, I hope to contribute via my writing, stories and essays to the universal
+  enterprise which I can put in these simple words:  **reach a full fledged life**
 
-This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren't found commonly elsewhere, which I'll list down below.
+  Unlike other species the human being is a mystery, we do belong to this world and yet we create some distance from this world
+  itself and here again we feel like we're strangers in this world and we don't belong to it, thus our **status** among other
+  creatures or toward what we call the wolrd is **a mystery**
 
-### Features
+  This separation operated by our counsciousness is the source of both our misery and grandeur. We can embrace by our mind the whole universe
+  and yet it still remains a stranage and mysterious place. So here come all the human endeavor since the dawn of Reason to fill 
+  this gap, we built, invented, created science, philosophy, litterature, systems to understand ourselves and the world.
 
-Here are a few interesting features of this Jekyll theme:
+  I believe that a full fledged life will be achieved as long as we continue to explore this separation operated by our mind. How?
+  By enchancing our consciousness. The more we become conscious the more we create some unity with the world and less we become
+  miserable. We'll need then practice and clarity, some sort of sport for both the mind and the body (or that which is not mind),
+  or put in other words we need *action* and action supposes *direction* or *mission*, here both mind and body come at play together
+  to join the dance of the *universe*.
 
-- A fully customizable and empty `_BLANK_config.yml` to make getting up-and-running easy.
-- A speedy, on-site search function using [Simply Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search).
-- Custom collections for different types of material (note-taking, journal writing, etc.)
-- An auto-generating archive page that displays all entries from _all_ collections.
-- Having a `_pages` collection for easier organization.
-- An author bio at the end of each post. (Located in `_inclues/author.html`)
-- Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
-- Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
+  We need to take care of our being by feeding the mind with clarity, knowledge and critical conscious thinking and the body with
+  proper food and good amount of conscious movements and direct all toward our personal mission. So before all, you need to figure out
+  your purpose or work to create one, there is no difference, a purpose doesn't come up like that by pure chance, all you need to do 
+  is to be conscious about your emotions and thoughts and states of your being in all circumstances, intercations and aspects of your
+  life. By being more conscious and creating some distance you'll discover with time your inner strengths and what make you unique 
+  and special and then you will become aware of the direction or purpose your life should aim at.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
