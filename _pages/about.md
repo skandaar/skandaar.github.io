@@ -17,7 +17,7 @@ permalink: /about/
   and yet it still remains a strange and mysterious place. So here come all the human endeavor since the dawn of Reason to fill 
   this gap, we built, invented, created science, philosophy, litterature, systems to understand ourselves and the world.
 
-  I believe that a full fledged life will be achieved as long as we continue to explore this separation operated by our mind. How?
+  I believe that a full fledged life will be achieved as long as we continue to explore this separation created by our mind. How?
   By enchancing our consciousness. The more we become conscious the more we create some unity with the world and less we become
   miserable. We will need then practice and clarity, some sort of sport for both the mind and the body (or that which is not mind),
   or put in other words we need *action* and action supposes *direction* or *mission*, here both mind and body come at play together
@@ -26,7 +26,7 @@ permalink: /about/
   We need to take care of our being by feeding the mind with clarity, knowledge and critical conscious thinking and the body with
   proper food and good amount of conscious movements and direct all toward our personal mission. So before all, you need to figure out
   your purpose or work to create one, there is no difference, a purpose doesn't come up like that by pure chance, all you need to do 
-  is to be conscious about your emotions and thoughts and states of your being in all circumstances, intercations and aspects of your
+  is to be conscious about your emotions and thoughts and states of your being in all circumstances, interactions and aspects of your
   life. By being more conscious and creating some distance you'll discover with time your inner strengths and what make you unique 
   and special and then you will become aware of the direction or purpose your life should aim at.
 
