@@ -8,7 +8,7 @@ happening within us. Nonetheless we have to wake up and we should begin the day 
 happy state of mind as possible as we can, this is our daily struggle and combat. But what to do 
 when you feel at the begining of the day less energetic, sad or unmotivated ?
 
-Observe what happening within you, pay attention to your toughts and emotions, practice silence and meditate, 
+Observe what happening within you, pay attention to your thoughts and emotions, practice silence and meditate, 
 this should keep you from identifying your being with those thoughts and emotions and thus you will feel less entangled.
 
 > I am not the body, I am not even the mind - Yoga Mantra
